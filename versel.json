@@ -1,5 +1,7 @@
+
 {
-  "rewrites": [
+  "version": 2,
+  "builds": [
     {
       "source": ",/proxy-cats",
       "destination": "https://meowfacts.herokuapp.com"
